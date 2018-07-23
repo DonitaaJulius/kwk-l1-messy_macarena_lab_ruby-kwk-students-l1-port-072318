@@ -15,4 +15,4 @@ puts "7. Bring your right hand up and around to the back of your head."
 puts "8. Bring your left hand up and around to the back your head."
 puts "9. AYYYYY Macarena"
 
-
+def macarena 
