@@ -5,6 +5,7 @@ puts ""
 # Every line should have one instruction using puts.
 # The first instruction is correct. 
 
+def macarena 
   puts "1. Right arm out in front of you, palm facing down."
   puts "2. Left arm out in front of you, palm facing down."
   puts "3. Turn your right palm up."
@@ -15,4 +16,6 @@ puts ""
   puts "8. Bring your left hand up and around to the back your head."
   puts "9. AYYYYY Macarena"
 
-def macarena 
+end 
+
+
